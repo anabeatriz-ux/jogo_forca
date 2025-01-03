@@ -4,9 +4,17 @@
     box-sizing: border-box;
 }
 
+body{
+    width: 100vw;
+    height: 90vh;
+    margin-top: 10px;
+    background-color: coral;
+}
+
 #imagem{
-    background-image: url("../img/IMG_20240810_185704_918.webp");
-    width: 234px;
-    height: 272px;
-    background-repeat: no-repeat;
+    background-image: url("../img/forca_00.png");
+    width: 434px;
+    height: 472px;
+    background-repeat:no-repeat;
+    
 }
